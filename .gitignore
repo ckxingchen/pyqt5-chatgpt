@@ -1,0 +1,21 @@
+# system or IDE generated files
+__debug_bin
+.vscode/
+.idea/
+.DS_Store
+*.bak
+.commit.txt
+!.gitkeep
+
+# python files
+venv
+__pycache__
+*.pyc
+dist
+*.egg-info
+.python-version
+.pytest_cache
+
+# project output files
+*.log
+
