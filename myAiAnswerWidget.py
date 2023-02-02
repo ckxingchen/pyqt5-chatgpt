@@ -108,7 +108,7 @@ class QmyAiAnswerWidget(QWidget):
         super().__init__(parent)           # 调用父类的构造函数，创建QWidget窗体
         self.ui = Ui_aiAnswerWidget()      # 创建UI对象
         self.ui.setupUi(self)              # 构造UI
-        self.api_keys = "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"
+        self.api_keys = "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"
         self.question = ""                 # 问题
         self.thread = None
         self.customConfigUI()
