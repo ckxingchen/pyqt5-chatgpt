@@ -3,7 +3,7 @@
 
 ### 界面展示
 
-![https://github.com/ckxingchen/pyqt5-chatgpt/blob/master/images/mainUI.png]()
+![image](https://github.com/ckxingchen/pyqt5-chatgpt/blob/master/images/mainUI.png)
 
 ### 使用说明
 
